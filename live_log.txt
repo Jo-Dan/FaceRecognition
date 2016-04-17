@@ -1,0 +1,3685 @@
+Initialised at 13/04/2016 - 01:35:46. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 01:35:58. 
+
+Initialised at 13/04/2016 - 02:13:50. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 02:13:59. 
+
+Initialised at 13/04/2016 - 02:14:12. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+Program Terminated at 13/04/2016 - 02:15:10. 
+
+Initialised at 13/04/2016 - 02:29:16. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 02:29:34. 
+
+Initialised at 13/04/2016 - 02:30:22. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 02:30:41. 
+
+Initialised at 13/04/2016 - 02:30:54. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 02:31:05. 
+
+Initialised at 13/04/2016 - 02:31:57. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 02:32:38. 
+
+Initialised at 13/04/2016 - 02:34:57. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 02:35:17. 
+
+Initialised at 13/04/2016 - 02:38:51. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 02:42:54. 
+
+Initialised at 13/04/2016 - 02:44:10. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 02:44:24. 
+
+Initialised at 13/04/2016 - 02:57:55. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 13/04/2016 - 03:03:43. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 13/04/2016 - 03:04:27. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 13/04/2016 - 03:04:49. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 13/04/2016 - 03:07:54. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 13/04/2016 - 03:08:24. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 13/04/2016 - 03:08:42. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 03:09:06. 
+
+Initialised at 13/04/2016 - 03:09:38. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 03:10:52. 
+
+Initialised at 13/04/2016 - 03:13:37. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+Program Terminated at 13/04/2016 - 03:14:22. 
+
+Initialised at 13/04/2016 - 03:14:36. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+Program Terminated at 13/04/2016 - 03:15:17. 
+
+Initialised at 13/04/2016 - 03:15:31. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 03:15:39. 
+
+Initialised at 13/04/2016 - 03:15:55. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 03:16:07. 
+
+Initialised at 13/04/2016 - 03:16:29. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 03:17:21. 
+
+Initialised at 13/04/2016 - 11:39:04. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 13/04/2016 - 11:40:21. 
+
+Initialised at 13/04/2016 - 11:40:26. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 1 recognised:  UNKNOWN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+Program Terminated at 13/04/2016 - 11:41:30. 
+
+Initialised at 13/04/2016 - 11:42:14. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recognizer Retrained 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 17 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+Program Terminated at 13/04/2016 - 11:43:05. 
+
+Initialised at 15/04/2016 - 01:13:18. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  FAG 
+Program Terminated at 15/04/2016 - 01:13:46. 
+
+Initialised at 15/04/2016 - 01:46:01. 
+   CSV Read. 
+   Run in "b" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 01:47:06. 
+   CSV Read. 
+   Run in "b" Mode. 
+   Recogniser Training Loaded 
+Program Terminated at 15/04/2016 - 01:47:11. 
+
+Initialised at 15/04/2016 - 01:48:43. 
+   CSV Read. 
+   Run in "f" Mode. 
+   Recogniser Training Loaded 
+Program Terminated at 15/04/2016 - 01:48:54. 
+
+Initialised at 15/04/2016 - 01:50:50. 
+   CSV Read. 
+   Run in "3" Mode. 
+   Recogniser Training Loaded 
+Program Terminated at 15/04/2016 - 01:52:01. 
+
+Initialised at 15/04/2016 - 02:05:58. 
+   CSV Read. 
+   Run in "b" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+Program Terminated at 15/04/2016 - 02:07:53. 
+
+Initialised at 15/04/2016 - 01:58:45. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 01:59:10. 
+
+Initialised at 15/04/2016 - 02:00:44. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:01:03. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:06:03. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:07:21. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:07:36. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 02:07:47. 
+
+Initialised at 15/04/2016 - 02:08:00. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+Program Terminated at 15/04/2016 - 02:10:17. 
+
+Initialised at 15/04/2016 - 02:10:25. 
+   CSV Read. 
+   Run in "l" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:10:50. 
+   CSV Read. 
+   Run in "c" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:11:05. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 02:11:15. 
+
+Initialised at 15/04/2016 - 02:13:42. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:15:22. 
+   CSV Read. 
+   Run in "l" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:15:37. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:16:04. 
+   CSV Read. 
+   Run in "l" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:21:37. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 02:21:49. 
+
+Initialised at 15/04/2016 - 02:22:16. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+Program Terminated at 15/04/2016 - 02:23:38. 
+
+Initialised at 15/04/2016 - 02:26:31. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 02:27:19. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 02:27:31. 
+
+Initialised at 15/04/2016 - 03:58:02. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 4 recognised:  UNKNOWN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 4 recognised:  UNKNOWN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 03:59:05. 
+
+Initialised at 15/04/2016 - 03:59:10. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+Program Terminated at 15/04/2016 - 03:59:50. 
+
+Initialised at 15/04/2016 - 04:01:04. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 04:01:24. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 04:02:08. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 04:02:26. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 04:14:38. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 04:14:52. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 04:19:05. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 04:19:19. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 04:20:08. 
+
+Initialised at 15/04/2016 - 04:26:51. 
+   CSV Read. 
+   Run in "o" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+Program Terminated at 15/04/2016 - 04:27:03. 
+
+Initialised at 15/04/2016 - 04:27:15. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+Program Terminated at 15/04/2016 - 04:27:25. 
+
+Initialised at 15/04/2016 - 04:27:31. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 17 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 17 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 17 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 17 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 17 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 17 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 04:27:46. 
+
+Initialised at 15/04/2016 - 04:27:49. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+Program Terminated at 15/04/2016 - 04:28:28. 
+
+Initialised at 15/04/2016 - 04:30:37. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+Program Terminated at 15/04/2016 - 04:31:32. 
+
+Initialised at 15/04/2016 - 04:35:38. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recognizer Retrained 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 04:37:15. 
+
+Initialised at 15/04/2016 - 04:53:13. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 05:02:19. 
+
+Initialised at 15/04/2016 - 05:02:25. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 05:02:33. 
+
+Initialised at 15/04/2016 - 05:02:43. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 05:03:19. 
+
+Initialised at 15/04/2016 - 05:05:39. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 05:14:15. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 05:14:41. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+Program Terminated at 15/04/2016 - 05:14:59. 
+
+Initialised at 15/04/2016 - 05:15:05. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 05:15:44. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 05:15:55. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+Program Terminated at 15/04/2016 - 05:16:03. 
+
+Initialised at 15/04/2016 - 05:16:35. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 05:17:04. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 05:17:13. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+Program Terminated at 15/04/2016 - 05:17:18. 
+
+Initialised at 15/04/2016 - 05:17:27. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 17 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 05:18:32. 
+
+Initialised at 15/04/2016 - 05:18:59. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 05:19:49. 
+
+Initialised at 15/04/2016 - 05:21:03. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 05:21:29. 
+
+Initialised at 15/04/2016 - 06:25:44. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 06:39:35. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 06:52:43. 
+
+Initialised at 15/04/2016 - 07:08:27. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:09:16. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:09:30. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+
+Initialised at 15/04/2016 - 07:09:46. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:09:57. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:10:08. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 15/04/2016 - 07:11:13. 
+
+Initialised at 15/04/2016 - 07:12:45. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+
+Initialised at 15/04/2016 - 07:13:06. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:13:18. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:13:26. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:13:44. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:14:02. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:14:50. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:15:03. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:15:13. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:15:24. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:15:32. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+Program Terminated at 15/04/2016 - 07:15:46. 
+
+Initialised at 15/04/2016 - 07:15:54. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:16:03. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:37:04. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:37:36. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:37:58. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 15/04/2016 - 07:38:26. 
+   CSV Read. 
+   Run in "" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 11 recognised:  UNKNOWN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 11 recognised:  UNKNOWN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 11 recognised:  UNKNOWN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 11 recognised:  UNKNOWN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+Program Terminated at 15/04/2016 - 07:39:35. 
+
+Initialised at 15/04/2016 - 07:41:04. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+Program Terminated at 15/04/2016 - 07:43:40. 
+
+Initialised at 15/04/2016 - 07:45:49. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 17 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 14 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 12 recognised:  UNKNOWN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+Program Terminated at 15/04/2016 - 07:48:43. 
+
+Initialised at 15/04/2016 - 07:50:02. 
+   CSV Read. 
+   Run in "s" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+Program Terminated at 15/04/2016 - 07:50:51. 
+
+Initialised at 15/04/2016 - 07:52:26. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+Program Terminated at 15/04/2016 - 07:52:40. 
+
+Initialised at 15/04/2016 - 07:53:05. 
+   CSV Read. 
+   Run in "c" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+Program Terminated at 15/04/2016 - 07:53:45. 
+
+Initialised at 15/04/2016 - 07:56:10. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 8 recognised:  UNKNOWN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+Program Terminated at 15/04/2016 - 07:58:52. 
+
+Initialised at 15/04/2016 - 08:09:31. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+Program Terminated at 15/04/2016 - 08:10:32. 
+
+Initialised at 16/04/2016 - 04:45:38. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  ADMIN @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+Program Terminated at 16/04/2016 - 04:46:45. 
+
+Initialised at 16/04/2016 - 04:48:32. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+Program Terminated at 16/04/2016 - 04:49:00. 
+
+Initialised at 16/04/2016 - 04:52:20. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 17 recognised:  USER @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 4 recognised:  UNKNOWN @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+Program Terminated at 16/04/2016 - 05:06:41. 
+
+Initialised at 16/04/2016 - 05:07:44. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+Program Terminated at 16/04/2016 - 05:08:13. 
+
+Initialised at 16/04/2016 - 05:08:32. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 2
+Program Terminated at 16/04/2016 - 05:09:05. 
+
+Initialised at 16/04/2016 - 05:17:50. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+Program Terminated at 16/04/2016 - 05:19:06. 
+
+Initialised at 16/04/2016 - 05:19:40. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+Program Terminated at 16/04/2016 - 05:20:11. 
+
+Initialised at 16/04/2016 - 05:20:54. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 2
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 1
+      Subject 16 recognised:  FAG @ Camera 1
+      Subject 18 recognised:  USER @ Camera 2
+      Subject 16 recognised:  FAG @ Camera 2
+Program Terminated at 16/04/2016 - 05:21:49. 
+
+Initialised at 16/04/2016 - 05:21:56. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  FAG @ Camera 1
+Program Terminated at 16/04/2016 - 05:22:04. 
+
+Initialised at 16/04/2016 - 05:41:14. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+
+Initialised at 16/04/2016 - 05:43:10. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+Program Terminated at 16/04/2016 - 05:43:37. 
+
+Initialised at 16/04/2016 - 05:44:08. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ANALOG 
+Program Terminated at 16/04/2016 - 05:44:19. 
+
+Initialised at 16/04/2016 - 05:47:56. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ANALOG 
+Program Terminated at 16/04/2016 - 05:48:36. 
+
+Initialised at 16/04/2016 - 06:20:07. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ANALOG 
+Program Terminated at 16/04/2016 - 06:20:16. 
+
+Initialised at 16/04/2016 - 06:21:04. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+Program Terminated at 16/04/2016 - 06:22:19. 
+
+Initialised at 16/04/2016 - 06:25:20. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+Program Terminated at 16/04/2016 - 06:26:53. 
+
+Initialised at 16/04/2016 - 06:27:05. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ANALOG 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+      Subject 16 recognised:  ANALOG 
+Program Terminated at 16/04/2016 - 06:28:27. 
+
+Initialised at 16/04/2016 - 08:28:35. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ANALOG 
+Program Terminated at 16/04/2016 - 08:28:48. 
+
+Initialised at 16/04/2016 - 08:32:32. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ANALOG 
+Program Terminated at 16/04/2016 - 08:32:49. 
+
+Initialised at 16/04/2016 - 08:33:02. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 16/04/2016 - 08:34:33. 
+
+Initialised at 16/04/2016 - 08:34:39. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 16/04/2016 - 08:34:58. 
+
+Initialised at 16/04/2016 - 08:35:13. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  USER 
+      Subject 16 recognised:  USER 
+Program Terminated at 16/04/2016 - 08:35:33. 
+
+Initialised at 16/04/2016 - 08:36:05. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  THREAT 
+Program Terminated at 16/04/2016 - 08:36:14. 
+
+Initialised at 16/04/2016 - 08:36:22. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  UNKNOWN 
+Program Terminated at 16/04/2016 - 08:38:06. 
+
+Initialised at 16/04/2016 - 08:38:07. 
+   CSV Read. 
+   Run in "p" Mode. 
+   Recogniser Training Loaded 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 18 recognised:  USER 
+      Subject 16 recognised:  ADMIN 
+      Subject 16 recognised:  ADMIN 
+Program Terminated at 16/04/2016 - 08:38:43. 
